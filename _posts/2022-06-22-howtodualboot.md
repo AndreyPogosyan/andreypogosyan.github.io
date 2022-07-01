@@ -1,6 +1,6 @@
 ---
 title: How To DualBoot Windows and Linux on the Same Hard Drive
-date: 2022-01-22 22:10:00 -400
+date: 2022-06-22 22:10:00 -400
 categories: [aws, security]
 tags: [aws,security]      # TAG names should always be lowercase
 ---

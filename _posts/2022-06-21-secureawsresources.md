@@ -1,6 +1,6 @@
 ---
 title: Secure AWS resources using Security Groups
-date: 2022-01-14 22:10:00 -400
+date: 2022-06-21 22:10:00 -400
 categories: [aws, security]
 tags: [aws,security]      # TAG names should always be lowercase
 ---

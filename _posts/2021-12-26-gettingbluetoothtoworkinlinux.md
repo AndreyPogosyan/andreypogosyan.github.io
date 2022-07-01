@@ -5,7 +5,6 @@ categories: [linux]
 tags: [linux]      # TAG names should always be lowercase
 ---
 
-# Getting Bluetooth to work in Linux
 
 From what I see, there are a lot of folks asking for help to get Bluetooth working on their laptops and desktops. I figured I’d write a small post to explain how Bluetooth configuration in Linux works and hopefully this will help out a lot of folks.
 

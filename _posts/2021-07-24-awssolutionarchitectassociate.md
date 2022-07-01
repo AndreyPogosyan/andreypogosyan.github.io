@@ -5,7 +5,6 @@ categories: [certification]
 tags: [aws,certifications]      # TAG names should always be lowercase
 ---
 
-# AWS Solutions Architect Associate – Pass
 
 I’ve spent some time over the past few months preparing to take the AWS Solutions Architect Associate level exam.
 
